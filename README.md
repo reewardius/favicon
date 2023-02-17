@@ -1,6 +1,8 @@
 # favicon
 ```
 > go run main.go -u https://github.com/favicon.ico
+> go run favicon.go -u https://github.com/favicon.ico
+> go run file.go -i urls.txt
 ```
 Shodan:
 ```
